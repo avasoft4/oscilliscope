@@ -1,4 +1,5 @@
 import matplotlib.pyplot as plt
+from time import sleep
 from matplotlib.animation import FuncAnimation
 import Adafruit_ADS1x15
 adc = Adafruit_ADS1x15.ADS1115()
